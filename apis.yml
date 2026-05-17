@@ -1,7 +1,7 @@
 aid: neptune-ai
 url: https://raw.githubusercontent.com/api-evangelist/neptune-ai/refs/heads/main/apis.yml
 name: Neptune.ai
-x-type: company
+kind: company
 description: >-
   Neptune.ai is an experiment tracker for ML and foundation-model training. As of 2025,
   Neptune.ai is being acquired by OpenAI and the public pricing page redirects to the
