@@ -52,6 +52,8 @@ apis:
       - type: Documentation
         url: https://neptune.ai/docs
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/neptuneai
   - type: Website
     url: https://neptune.ai/
   - type: Acquisition
