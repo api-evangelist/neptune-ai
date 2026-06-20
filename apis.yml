@@ -7,7 +7,7 @@ description: >-
   Neptune.ai is being acquired by OpenAI and the public pricing page redirects to the
   OpenAI announcement. Customers continue to use the Neptune Python client and REST API
   during the transition.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - ML
   - MLOps
