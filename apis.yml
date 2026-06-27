@@ -34,7 +34,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs-legacy.neptune.ai/api/api_reference/
-      - type: SDK
+      - type: SDKs
         title: Python (neptune)
         url: https://docs-legacy.neptune.ai/api/neptune/
   - aid: neptune-ai:neptune-scale-api
