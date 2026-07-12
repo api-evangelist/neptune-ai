@@ -52,6 +52,8 @@ apis:
       - type: Documentation
         url: https://neptune.ai/docs
 common:
+  - type: DomainSecurity
+    url: security/neptune-ai-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/neptuneai
   - type: Website
