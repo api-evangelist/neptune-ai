@@ -64,6 +64,17 @@ apis:
       - type: Documentation
         url: https://neptune.ai/docs
 common:
+  - type: IssueTracker
+    url: https://github.com/neptune-ai/neptune-client/issues
+  - type: Releases
+    url: https://github.com/neptune-ai/neptune-client/releases
+  - type: SecurityPolicy
+    url: https://github.com/neptune-ai/neptune-client/blob/master/.github/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/neptune-ai/neptune-client/blob/master/CODE_OF_CONDUCT.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/neptune-ai/neptune-client/blob/master/LICENSE
   - type: DomainSecurity
     url: security/neptune-ai-domain-security.yml
   - type: LinkedIn
