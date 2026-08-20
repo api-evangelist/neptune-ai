@@ -37,6 +37,11 @@ apis:
     tags:
       - REST
       - Runs
+      - Project
+      - Metrics
+    tags_raw:
+      - REST
+      - Runs
       - Projects
       - Metrics
     description: >-
