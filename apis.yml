@@ -34,6 +34,12 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/neptune-ai.png
 tags:
+  - Machine-Learning
+  - MLOps
+  - Experiment Tracking
+  - Foundation Models
+  - Acquired
+tags_raw:
   - ML
   - MLOps
   - Experiment Tracking
