@@ -1,4 +1,4 @@
-# Neptune.ai (neptune-ai)
+# Neptune.ai
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,38 +66,100 @@
 
 Neptune.ai is an experiment tracker for ML and foundation-model training. As of 2025, Neptune.ai is being acquired by OpenAI and the public pricing page redirects to the OpenAI announcement. Customers continue to use the Neptune Python client and REST API during the transition.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/neptune-ai/refs/heads/main/apis.yml)
+**Areas:** Machine Learning · MLOps · Experiment Tracking · Foundation Models · Acquired
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=neptune-ai-api-evangelist&utm_content=repo)
+## Neptune.ai on APIs.io
 
-## Type
-- **x-type:** company
+Everything profiled for Neptune.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/neptune-ai/](https://apis.io/providers/neptune-ai/)** — or go straight to one of the APIs or properties below.
 
-## APIs
-- **Neptune.ai REST API** - Backs the Neptune Python client. Runs, projects, fields, metadata. API token authentication.
-- **Neptune Scale API** - Higher-throughput logging surface for foundation-model training.
+### APIs (2)
 
-## Tags
-- ML, MLOps, Experiment Tracking, Foundation Models, Acquired
+- [Neptune.ai REST API](https://apis.io/apis/neptune-ai/neptune-rest-api/) — The Neptune REST API backs the Neptune Python client. It exposes runs, projects, fields, and metadata logging. Authentication uses an API token from the…
+- [Neptune Scale API (foundation-model tier)](https://apis.io/apis/neptune-ai/neptune-scale-api/) — Neptune Scale is the higher-throughput logging surface designed for foundation model training jobs. Same API-token authentication; SDK support in…
 
-## Timestamps
-- **Created:** 2026-05-08
-- **Modified:** 2026-05-08
+### Published properties
 
-## Common Properties
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Neptune Ai Domain Security](https://apis.io/security/neptune-ai/neptune-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Neptune Ai Plans Pricing](https://apis.io/plans/neptune-ai/neptune-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Neptune Ai Rate Limits](https://apis.io/rate-limits/neptune-ai/neptune-ai-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Neptune Ai Finops](https://apis.io/finops/neptune-ai/neptune-ai-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://neptune.ai/)
-- [Acquisition Announcement](https://openai.com/index/openai-to-acquire-neptune/)
-- [Source: neptune-client](https://github.com/neptune-ai/neptune-client)
-- [Plans](plans/neptune-ai-plans-pricing.yml)
-- [RateLimits](rate-limits/neptune-ai-rate-limits.yml)
-- [FinOps](finops/neptune-ai-finops.yml)
 
-## Notes
-- Pricing not reconciled — public pricing page redirects (308) to the OpenAI acquisition announcement; pricing is in flux.
-- Neptune Scale tier was positioned for foundation-model training jobs at higher throughput.
-- Treat Neptune as transitional under OpenAI ownership; SDK and tracking server still operational at time of writing.
+## API Evangelist rating
 
-## Maintainers
-**FN:** Kin Lane
+**Kin Score 14.6** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 36.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/neptune-ai/](https://apis.io/providers/neptune-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Neptune.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/neptune-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
